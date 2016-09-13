@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<players>
+    <player id="1">
+        <firstname>Adam</firstname>
+        <surname>Smith</surname>
+        <gender>male</gender>
+        <age>10</age>
+        <height>138</height>
+        <weight>34</weight>
+        <foot>right</foot>
+
+        <squadnumber>1</squadnumber>
+        <signedOn>01/05/2012</signedOn>
+        <position>Goal Keeper</position>
+        <goals>0</goals>
+        <assists>0</assists>
+        <appearances>50</appearances>
+        <yellowcards>0</yellowcards>
+        <redcards>0</redcards>
+        <motm>8</motm>
+    </player>
+
+    <player id="2">
+        <firstname>Tommy</firstname>
+        <surname>Jones</surname>
+        <gender>male</gender>
+        <age>10</age>
+        <height>139</height>
+        <weight>35</weight>
+        <foot>right</foot>
+
+        <squadnumber>2</squadnumber>
+        <signedOn>10/11/2012</signedOn>
+        <position>Midfield</position>
+        <goals>1</goals>
+        <assists>6</assists>
+        <appearances>42</appearances>
+        <yellowcards>0</yellowcards>
+        <redcards>0</redcards>
+        <motm>6</motm>
+    </player>
+
+    <player id="3">
+        <firstname>Jamie</firstname>
+        <surname>Brown</surname>
+        <gender>male</gender>
+        <age>10</age>
+        <height>136</height>
+        <weight>41</weight>
+        <foot>right</foot>
+
+        <squadnumber>5</squadnumber>
+        <signedOn>10/06/2014</signedOn>
+        <position>Defence</position>
+        <goals>0</goals>
+        <assists>2</assists>
+        <appearances>28</appearances>
+        <yellowcards>0</yellowcards>
+        <redcards>0</redcards>
+        <motm>1</motm>
+    </player>
+
+    <player id="4">
+        <firstname>Ewan</firstname>
+        <surname>Jones</surname>
+        <gender>male</gender>
+        <age>10</age>
+        <height>139</height>
+        <weight>35</weight>
+        <foot>right</foot>
+
+        <squadnumber>6</squadnumber>
+        <signedOn>10/11/2013</signedOn>
+        <position>Midfield</position>
+        <goals>2</goals>
+        <assists>10</assists>
+        <appearances>32</appearances>
+        <yellowcards>0</yellowcards>
+        <redcards>0</redcards>
+        <motm>3</motm>
+    </player>
+
+    <player id="5">
+        <firstname>Daniel</firstname>
+        <surname>Colluney</surname>
+        <gender>male</gender>
+        <age>10</age>
+        <height>140</height>
+        <weight>35</weight>
+        <foot>right</foot>
+
+        <squadnumber>7</squadnumber>
+        <signedOn>12/11/2012</signedOn>
+        <position>Midfield</position>
+        <goals>24</goals>
+        <assists>40</assists>
+        <appearances>42</appearances>
+        <yellowcards>0</yellowcards>
+        <redcards>0</redcards>
+        <motm>10</motm>
+    </player>
+
+    <player id="6">
+        <firstname>Josh</firstname>
+        <surname>Smith</surname>
+        <gender>male</gender>
+        <age>10</age>
+        <height>145</height>
+        <weight>39</weight>
+        <foot>right</foot>
+
+        <squadnumber>8</squadnumber>
+        <signedOn>25/08/2013</signedOn>
+        <position>Defence</position>
+        <goals>7</goals>
+        <assists>6</assists>
+        <appearances>36</appearances>
+        <yellowcards>0</yellowcards>
+        <redcards>0</redcards>
+        <motm>4</motm>
+    </player>
+
+    <player id="7">
+        <firstname>Tyler</firstname>
+        <surname>Brown</surname>
+        <gender>male</gender>
+        <age>10</age>
+        <height>142</height>
+        <weight>40</weight>
+        <foot>right</foot>
+
+        <squadnumber>9</squadnumber>
+        <signedOn>20/09/2011</signedOn>
+        <position>Striker</position>
+        <goals>52</goals>
+        <assists>25</assists>
+        <appearances>58</appearances>
+        <yellowcards>0</yellowcards>
+        <redcards>0</redcards>
+        <motm>12</motm>
+    </player>
+
+    <player id="8">
+        <firstname>Danny</firstname>
+        <surname>Smith</surname>
+        <gender>male</gender>
+        <age>10</age>
+        <height>147</height>
+        <weight>40</weight>
+        <foot>right</foot>
+
+        <squadnumber>10</squadnumber>
+        <signedOn>11/12/2013</signedOn>
+        <position>Midfield</position>
+        <goals>21</goals>
+        <assists>15</assists>
+        <appearances>31</appearances>
+        <yellowcards>0</yellowcards>
+        <redcards>0</redcards>
+        <motm>4</motm>
+    </player>
+
+    <player id="9">
+        <firstname>Zach</firstname>
+        <surname>Jones</surname>
+        <gender>male</gender>
+        <age>10</age>
+        <height>138</height>
+        <weight>35</weight>
+        <foot>right</foot>
+
+        <squadnumber>11</squadnumber>
+        <signedOn>20/07/2013</signedOn>
+        <position>Striker</position>
+        <goals>28</goals>
+        <assists>10</assists>
+        <appearances>32</appearances>
+        <yellowcards>0</yellowcards>
+        <redcards>0</redcards>
+        <motm>5</motm>
+    </player>
+
+    <player id="10">
+        <firstname>Dan</firstname>
+        <surname>Brown</surname>
+        <gender>male</gender>
+        <age>10</age>
+        <height>141</height>
+        <weight>42</weight>
+        <foot>left</foot>
+
+        <squadnumber>12</squadnumber>
+        <signedOn>21/01/2015</signedOn>
+        <position>Defence</position>
+        <goals>7</goals>
+        <assists>11</assists>
+        <appearances>28</appearances>
+        <yellowcards>0</yellowcards>
+        <redcards>0</redcards>
+        <motm>4</motm>
+    </player>
+
+    <player id="11">
+        <firstname>Thomas</firstname>
+        <surname>Jones</surname>
+        <gender>male</gender>
+        <age>10</age>
+        <height>140</height>
+        <weight>37</weight>
+        <foot>right</foot>
+
+        <squadnumber>14</squadnumber>
+        <signedOn>01/07/2016</signedOn>
+        <position>Midfield</position>
+        <goals>0</goals>
+        <assists>0</assists>
+        <appearances>1</appearances>
+        <yellowcards>0</yellowcards>
+        <redcards>0</redcards>
+        <motm>0</motm>
+    </player>
+
+    <player id="12">
+        <firstname>Jack</firstname>
+        <surname>Smith</surname>
+        <gender>male</gender>
+        <age>10</age>
+        <height>138</height>
+        <weight>36</weight>
+        <foot>left</foot>
+
+        <squadnumber>4</squadnumber>
+        <signedOn>01/09/2016</signedOn>
+        <position>Defence</position>
+        <goals>0</goals>
+        <assists>0</assists>
+        <appearances>1</appearances>
+        <yellowcards>0</yellowcards>
+        <redcards>0</redcards>
+        <motm>0</motm>
+    </player>
+
+    <player id="13">
+        <firstname>Josh</firstname>
+        <surname>Jones</surname>
+        <gender>male</gender>
+        <age>10</age>
+        <height>133</height>
+        <weight>33</weight>
+        <foot>right</foot>
+
+        <squadnumber>15</squadnumber>
+        <signedOn>01/09/2016</signedOn>
+        <position>Midfield</position>
+        <goals>0</goals>
+        <assists>0</assists>
+        <appearances>1</appearances>
+        <yellowcards>0</yellowcards>
+        <redcards>0</redcards>
+        <motm>0</motm>
+    </player>
+
+</players>
